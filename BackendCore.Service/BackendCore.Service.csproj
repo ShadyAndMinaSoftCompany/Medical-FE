@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackendCore.Common\BackendCore.Common.csproj" />
+    <ProjectReference Include="..\BackendCore.Integration\BackendCore.Integration.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Mapping\Lookup\" />
+    <Folder Include="Services\Lookups\" />
+  </ItemGroup>
+
+</Project>

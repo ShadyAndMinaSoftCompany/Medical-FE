@@ -1,0 +1,17 @@
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\bin\Debug\net6.0\BackendCore.Integration.deps.json
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\bin\Debug\net6.0\BackendCore.Integration.dll
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\bin\Debug\net6.0\BackendCore.Integration.pdb
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\bin\Debug\net6.0\BackendCore.Common.dll
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\bin\Debug\net6.0\BackendCore.Entities.dll
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\bin\Debug\net6.0\BackendCore.Common.pdb
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\bin\Debug\net6.0\BackendCore.Entities.pdb
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\obj\Debug\net6.0\BackendCore.Integration.csproj.AssemblyReference.cache
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\obj\Debug\net6.0\BackendCore.Integration.GeneratedMSBuildEditorConfig.editorconfig
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\obj\Debug\net6.0\BackendCore.Integration.AssemblyInfoInputs.cache
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\obj\Debug\net6.0\BackendCore.Integration.AssemblyInfo.cs
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\obj\Debug\net6.0\BackendCore.Integration.csproj.CoreCompileInputs.cache
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\obj\Debug\net6.0\BackendCore.Integration.csproj.CopyComplete
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\obj\Debug\net6.0\BackendCore.Integration.dll
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\obj\Debug\net6.0\refint\BackendCore.Integration.dll
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\obj\Debug\net6.0\BackendCore.Integration.pdb
+H:\Personal\POS\Pos-Backend\BackendCore.Integration\obj\Debug\net6.0\ref\BackendCore.Integration.dll

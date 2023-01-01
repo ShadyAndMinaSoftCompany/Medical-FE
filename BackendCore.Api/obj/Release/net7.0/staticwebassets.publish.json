@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/HW4cZB2QtUhQ9PqWFCJ9/NyLPzzxa/wjZVP0Etf2QY=",
+  "Source": "BackendCore.Api",
+  "BasePath": "_content/BackendCore.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BackendCore.Api\\wwwroot",
+      "Source": "BackendCore.Api",
+      "ContentRoot": "H:\\Personal\\GPs\\Pos-Backend\\BackendCore.Api\\wwwroot\\",
+      "BasePath": "_content/BackendCore.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

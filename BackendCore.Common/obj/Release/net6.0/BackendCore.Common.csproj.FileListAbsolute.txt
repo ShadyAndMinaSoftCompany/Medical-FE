@@ -1,0 +1,17 @@
+H:\Personal\POS\Pos-Backend\BackendCore.Common\bin\Release\net6.0\BackendCore.Common.deps.json
+H:\Personal\POS\Pos-Backend\BackendCore.Common\bin\Release\net6.0\BackendCore.Common.runtimeconfig.json
+H:\Personal\POS\Pos-Backend\BackendCore.Common\bin\Release\net6.0\BackendCore.Common.dll
+H:\Personal\POS\Pos-Backend\BackendCore.Common\bin\Release\net6.0\BackendCore.Common.pdb
+H:\Personal\POS\Pos-Backend\BackendCore.Common\bin\Release\net6.0\BackendCore.Entities.dll
+H:\Personal\POS\Pos-Backend\BackendCore.Common\bin\Release\net6.0\BackendCore.Entities.pdb
+H:\Personal\POS\Pos-Backend\BackendCore.Common\obj\Release\net6.0\BackendCore.Common.csproj.AssemblyReference.cache
+H:\Personal\POS\Pos-Backend\BackendCore.Common\obj\Release\net6.0\BackendCore.Common.GeneratedMSBuildEditorConfig.editorconfig
+H:\Personal\POS\Pos-Backend\BackendCore.Common\obj\Release\net6.0\BackendCore.Common.AssemblyInfoInputs.cache
+H:\Personal\POS\Pos-Backend\BackendCore.Common\obj\Release\net6.0\BackendCore.Common.AssemblyInfo.cs
+H:\Personal\POS\Pos-Backend\BackendCore.Common\obj\Release\net6.0\BackendCore.Common.csproj.CoreCompileInputs.cache
+H:\Personal\POS\Pos-Backend\BackendCore.Common\obj\Release\net6.0\BackendCore.Common.csproj.CopyComplete
+H:\Personal\POS\Pos-Backend\BackendCore.Common\obj\Release\net6.0\BackendCore.Common.dll
+H:\Personal\POS\Pos-Backend\BackendCore.Common\obj\Release\net6.0\refint\BackendCore.Common.dll
+H:\Personal\POS\Pos-Backend\BackendCore.Common\obj\Release\net6.0\BackendCore.Common.pdb
+H:\Personal\POS\Pos-Backend\BackendCore.Common\obj\Release\net6.0\BackendCore.Common.genruntimeconfig.cache
+H:\Personal\POS\Pos-Backend\BackendCore.Common\obj\Release\net6.0\ref\BackendCore.Common.dll
