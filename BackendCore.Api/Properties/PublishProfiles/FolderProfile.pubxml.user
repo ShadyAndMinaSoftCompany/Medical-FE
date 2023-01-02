@@ -4,8 +4,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\HP\Desktop\POS</_PublishTargetUrl>
-    <History>True|2022-12-06T10:47:31.3186918Z;True|2022-11-09T12:55:12.6582661+02:00;True|2022-10-18T10:55:55.9422298+02:00;</History>
+    <_PublishTargetUrl>E:\Shady\Azure\Medical Project\Medical\BackendCore.Api\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>False|2023-01-02T09:22:13.0556578Z;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
