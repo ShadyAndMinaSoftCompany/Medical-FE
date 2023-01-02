@@ -7,7 +7,6 @@ namespace BackendCore.Api.Controllers.Base
     /// <inheritdoc />
     [Route("[controller]/[action]")]
     [ApiController]
-    [Authorize]
     public class BaseController : ControllerBase
     {
         /// <summary>
