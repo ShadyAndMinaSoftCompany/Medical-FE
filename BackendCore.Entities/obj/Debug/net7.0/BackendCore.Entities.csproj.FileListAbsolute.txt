@@ -22,3 +22,15 @@ H:\Personal\GPs\Pos-Backend\BackendCore.Entities\obj\Debug\net7.0\BackendCore.En
 H:\Personal\GPs\Pos-Backend\BackendCore.Entities\obj\Debug\net7.0\refint\BackendCore.Entities.dll
 H:\Personal\GPs\Pos-Backend\BackendCore.Entities\obj\Debug\net7.0\BackendCore.Entities.pdb
 H:\Personal\GPs\Pos-Backend\BackendCore.Entities\obj\Debug\net7.0\ref\BackendCore.Entities.dll
+H:\Personal\GPs\Medical\BackendCore.Entities\bin\Debug\net7.0\BackendCore.Entities.deps.json
+H:\Personal\GPs\Medical\BackendCore.Entities\bin\Debug\net7.0\BackendCore.Entities.dll
+H:\Personal\GPs\Medical\BackendCore.Entities\bin\Debug\net7.0\BackendCore.Entities.pdb
+H:\Personal\GPs\Medical\BackendCore.Entities\obj\Debug\net7.0\BackendCore.Entities.csproj.AssemblyReference.cache
+H:\Personal\GPs\Medical\BackendCore.Entities\obj\Debug\net7.0\BackendCore.Entities.GeneratedMSBuildEditorConfig.editorconfig
+H:\Personal\GPs\Medical\BackendCore.Entities\obj\Debug\net7.0\BackendCore.Entities.AssemblyInfoInputs.cache
+H:\Personal\GPs\Medical\BackendCore.Entities\obj\Debug\net7.0\BackendCore.Entities.AssemblyInfo.cs
+H:\Personal\GPs\Medical\BackendCore.Entities\obj\Debug\net7.0\BackendCore.Entities.csproj.CoreCompileInputs.cache
+H:\Personal\GPs\Medical\BackendCore.Entities\obj\Debug\net7.0\BackendCore.Entities.dll
+H:\Personal\GPs\Medical\BackendCore.Entities\obj\Debug\net7.0\refint\BackendCore.Entities.dll
+H:\Personal\GPs\Medical\BackendCore.Entities\obj\Debug\net7.0\BackendCore.Entities.pdb
+H:\Personal\GPs\Medical\BackendCore.Entities\obj\Debug\net7.0\ref\BackendCore.Entities.dll
