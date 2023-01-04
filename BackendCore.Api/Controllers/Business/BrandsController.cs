@@ -1,4 +1,5 @@
-﻿using BackendCore.Common.Core;
+﻿using BackendCore.Api.Controllers.Base;
+using BackendCore.Common.Core;
 using BackendCore.Service.Services.Business.Brand;
 using BackendCore.Service.Services.Business.Department;
 using Microsoft.AspNetCore.Mvc;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BackendCore.Api.Controllers.Business
 {
-    public class BrandsController : Controller
+    public class BrandsController : BaseController
     {
         private readonly IBrandService _brandService;
 
