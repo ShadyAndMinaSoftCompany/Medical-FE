@@ -6,10 +6,11 @@ using System;
 using BackendCore.Service.Services.Business.ModelDetail;
 using BackendCore.Common.DTO.Base;
 using BackendCore.Common.DTO.Business.ModelDetail.Filter;
+using BackendCore.Api.Controllers.Base;
 
 namespace BackendCore.Api.Controllers.Business
 {
-    public class ModelDetailController : Controller
+    public class ModelDetailController : BaseController
     {
         private readonly IModelDetailService _modelDetailService;
 
