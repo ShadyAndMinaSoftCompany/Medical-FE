@@ -26,13 +26,13 @@ namespace BackendCore.Entities.Entities.Business
         public string Weight { get; set; }
         public int? Weight_Points { get; set; }
         public string Weight_Type { get; set; }
-        public bool MaitainNominalTemp{ get; set; }
+        public bool? MaitainNominalTemp{ get; set; }
         public int? MaitainNominalTemp_Points { get; set; }
         public string MaitainNominalTemp_Type { get; set; }
-        public bool Noise50dB { get; set; }
+        public bool? Noise50dB { get; set; }
         public int? Noise50dB_Points { get; set; }
         public string Noise50dB_Type { get; set; }
-        public bool CaseHardSplashProof { get; set; }
+        public bool? CaseHardSplashProof { get; set; }
         public int? CaseHardSplashProof_Points { get; set; }
         public string CaseHardSplashProof_Type { get; set; }
 
@@ -61,7 +61,7 @@ namespace BackendCore.Entities.Entities.Business
         public int? PowerConsumption_Points { get; set; }
         public string PowerConsumption_Type { get; set; }
 
-        public bool ElectricalProtection { get; set; }
+        public bool? ElectricalProtection { get; set; }
         public int? ElectricalProtection_Points { get; set; }
         public string ElectricalProtection_Type { get; set; }
 
