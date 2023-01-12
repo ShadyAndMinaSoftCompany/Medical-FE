@@ -49,7 +49,20 @@ namespace BackendCore.Service.Services.Business.ModelDetail
             return new ResponseResult(data, HttpStatusCode.OK, null, "Success");
         }
 
+        /// <summary>
+        /// Get All Paged
+        /// </summary>
+        /// <param name="filter"></param>
+        /// <returns></returns>
+        public async Task<IFinalResult> GetAsync(Guid? id)
+        {
+           
 
+            var entities = await UnitOfWork.Repository.FirstOrDefaultAsync(x => x.Id== id);
+            var data = Mapper.Map<Entities.Entities.Business.ModelDetail, ModelDetailDto>(entities);
+            data.ImageUrl = GetDownloadFileUrl(data.FileId);
+            return new ResponseResult(data, HttpStatusCode.OK, null, "Success");
+        }
 
         #endregion
 

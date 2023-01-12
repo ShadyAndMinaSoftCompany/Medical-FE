@@ -36,5 +36,17 @@ namespace BackendCore.Api.Controllers.Business
             var result = await _modelDetailService.GetAllAsync(filter);
             return result;
         }
+
+        /// <summary>
+        /// Get Model Details by id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        [HttpGet("{id}")]
+        public async Task<IFinalResult> GetModelDetails(Guid id)
+        {
+            var result = await _modelDetailService.GetAsync(id);
+            return result;
+        }
     }
 }

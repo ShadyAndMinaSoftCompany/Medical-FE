@@ -13,6 +13,8 @@ namespace BackendCore.Common.DTO.Business.ModelDetail
     {
         public Guid? Id { get; set; }
         public string Name { get; set; }
+        public Guid? FileId { get; set; }
+        public string ImageUrl  { get; set; }
         public decimal? Price { get; set; }
         public string Screen_Size { get; set; }
         public int? Screen_Size_Points { get; set; }

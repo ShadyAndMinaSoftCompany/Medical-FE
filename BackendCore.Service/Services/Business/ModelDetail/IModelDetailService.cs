@@ -12,5 +12,6 @@ namespace BackendCore.Service.Services.Business.ModelDetail
     public interface IModelDetailService
     {
         Task<IFinalResult> GetAllAsync(BaseParam<SearchFilter> filter);
+        Task<IFinalResult> GetAsync(Guid? id);
     }
 }

@@ -17,6 +17,7 @@ namespace BackendCore.Entities.Entities.Business
     {
         public string Name { get; set; }
         public decimal? Price { get; set; }
+        public Guid? FileId { get; set; }
         public string Screen_Size { get; set; }
         public int? Screen_Size_Points { get; set; }
         public string Screen_Size_Type { get; set; }
