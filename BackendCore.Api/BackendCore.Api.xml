@@ -70,6 +70,13 @@
             <param name="filter"></param>
             <returns></returns>
         </member>
+        <member name="M:BackendCore.Api.Controllers.Business.ModelDetailController.GetModelDetails(System.Guid)">
+            <summary>
+            Get Model Details by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
         <member name="T:BackendCore.Api.Controllers.Common.FilesController">
             <summary>
             Files Controller

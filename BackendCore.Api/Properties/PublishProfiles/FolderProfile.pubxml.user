@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>H:\Personal\GPs\Medical\BackendCore.Api\bin\Release\net7.0\publish\</_PublishTargetUrl>
-    <History>True|2023-01-08T13:11:36.0544687Z;False|2023-01-02T11:22:13.0556578+02:00;</History>
+    <History>True|2023-01-12T13:36:12.0568464Z;True|2023-01-08T15:11:36.0544687+02:00;False|2023-01-02T11:22:13.0556578+02:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

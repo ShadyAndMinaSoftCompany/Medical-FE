@@ -47,14 +47,14 @@ namespace BackendCore.Common.Helpers.FileHelpers.StorageHelper
         }
         public async Task<object> DownLoad(string url, string path)
         {
-            var username = _configuration["Network:Username"];
-            var password = _configuration["Network:Password"];
-            var domain = _configuration["Network:Domain"];
-            var credentials = new UserCredentials(domain, username, password);
-            using SafeAccessTokenHandle userHandle = credentials.LogonUser(LogonType.Interactive);
+            //var username = _configuration["Network:Username"];
+            //var password = _configuration["Network:Password"];
+            //var domain = _configuration["Network:Domain"];
+            //var credentials = new UserCredentials(domain, username, password);
+            //using SafeAccessTokenHandle userHandle = credentials.LogonUser(LogonType.Interactive);
 #pragma warning disable CA1416 // Validate platform compatibility
-            var result = await WindowsIdentity.RunImpersonatedAsync(userHandle, async () =>
-            {
+            //var result = await WindowsIdentity.RunImpersonatedAsync(userHandle, async () =>
+            //{
                 var folderPath = Path.Combine($"{path}" + url);
 
                 var memory = new MemoryStream();
@@ -62,10 +62,10 @@ namespace BackendCore.Common.Helpers.FileHelpers.StorageHelper
                 await stream.CopyToAsync(memory);
                 memory.Position = 0;
                 return memory;
-            });
-#pragma warning restore CA1416 // Validate platform compatibility
+//            });
+//#pragma warning restore CA1416 // Validate platform compatibility
 
-            return result;
+//            return result;
 
 
         }
@@ -74,14 +74,14 @@ namespace BackendCore.Common.Helpers.FileHelpers.StorageHelper
         {
             try
             {
-                var username = _configuration["Network:Username"];
-                var password = _configuration["Network:Password"];
-                var domain = _configuration["Network:Domain"];
-                var credentials = new UserCredentials(domain, username, password);
-                using SafeAccessTokenHandle userHandle = credentials.LogonUser(LogonType.Interactive);
+                //var username = _configuration["Network:Username"];
+                //var password = _configuration["Network:Password"];
+                //var domain = _configuration["Network:Domain"];
+                //var credentials = new UserCredentials(domain, username, password);
+                //using SafeAccessTokenHandle userHandle = credentials.LogonUser(LogonType.Interactive);
 #pragma warning disable CA1416 // Validate platform compatibility
-                var result = await WindowsIdentity.RunImpersonatedAsync(userHandle, async () =>
-                {
+                //var result = await WindowsIdentity.RunImpersonatedAsync(userHandle, async () =>
+                //{
                     var uploadsFolderPath = Path.Combine($"{path}") + DateTime.UtcNow.Date.ToString("dd-MM-yyyy");
                     if (!Directory.Exists(uploadsFolderPath))
                         Directory.CreateDirectory(uploadsFolderPath);
@@ -105,10 +105,10 @@ namespace BackendCore.Common.Helpers.FileHelpers.StorageHelper
                         filesName.Add(file);
                     }
                     return filesName;
-                });
+                //});
 #pragma warning restore CA1416 // Validate platform compatibility
 
-                return result;
+                //return result;
             }
             catch (Exception e)
             {
