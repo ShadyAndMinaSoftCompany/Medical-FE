@@ -7,15 +7,15 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7y8JJToIckGkv38moLru/wAAAAACAAAAAAAQZgAAAAEAACAAAADUl1z4ZIYEQirk/vGkQ6Q//3PP/NCRHSEyjfTUJOK0KwAAAAAOgAAAAAIAACAAAADb5MNfuLAoy/AxafwTkihD/G459i0ISoI1I0rt496nqzAAAAAORrlw6SgV8RW+kUyiY7etjgy9VGgSazTdQ+UO1FN7QJgqi21PULdR1EgDDAeHAbNAAAAARnw6j+w4MztzrRFYg3dg8Pps9hMoBK/M/MUQIiCQtACSXJkoyU4di+P1pfKL2K5VD6zDiGhlC1dpf/rUL0hxDg==</EncryptedPassword>
     <_PublishTargetUrl>ftp://Medical-MS.somee.com/www.Medical-MS.somee.com</_PublishTargetUrl>
-    <History>True|2023-01-04T13:47:28.9861924Z;True|2023-01-02T12:50:54.5959201+02:00;False|2023-01-02T12:27:28.6908248+02:00;False|2023-01-02T12:24:02.9000003+02:00;False|2023-01-02T12:14:58.3370007+02:00;False|2022-12-30T20:00:40.2429220+02:00;True|2022-12-30T19:54:06.8991927+02:00;False|2022-12-30T19:51:35.9478946+02:00;</History>
+    <History>False|2023-01-17T11:44:30.0000809Z;False|2023-01-17T13:43:34.0359361+02:00;False|2023-01-17T13:41:16.8038597+02:00;True|2023-01-04T15:47:28.9861924+02:00;True|2023-01-02T12:50:54.5959201+02:00;False|2023-01-02T12:27:28.6908248+02:00;False|2023-01-02T12:24:02.9000003+02:00;False|2023-01-02T12:14:58.3370007+02:00;False|2022-12-30T20:00:40.2429220+02:00;True|2022-12-30T19:54:06.8991927+02:00;False|2022-12-30T19:51:35.9478946+02:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="appsettings.Development.json">
-      <publishTime>01/01/2023 16:41:02</publishTime>
+      <publishTime>04/10/2022 09:40:01</publishTime>
     </File>
     <File Include="appsettings.json">
-      <publishTime>01/02/2023 13:19:26</publishTime>
+      <publishTime>01/17/2023 13:14:05</publishTime>
     </File>
     <File Include="AutoMapper.dll">
       <publishTime>09/30/2022 11:45:38</publishTime>
@@ -30,52 +30,52 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>04/05/2022 22:26:00</publishTime>
     </File>
     <File Include="BackendCore.Api.deps.json">
-      <publishTime>01/04/2023 15:33:42</publishTime>
+      <publishTime>01/17/2023 13:43:58</publishTime>
     </File>
     <File Include="BackendCore.Api.dll">
-      <publishTime>01/04/2023 15:33:25</publishTime>
+      <publishTime>01/17/2023 13:43:49</publishTime>
     </File>
     <File Include="BackendCore.Api.exe">
-      <publishTime>01/04/2023 15:33:25</publishTime>
+      <publishTime>01/17/2023 13:42:05</publishTime>
     </File>
     <File Include="BackendCore.Api.pdb">
-      <publishTime>01/04/2023 15:33:25</publishTime>
+      <publishTime>01/17/2023 13:42:05</publishTime>
     </File>
     <File Include="BackendCore.Api.runtimeconfig.json">
-      <publishTime>01/04/2023 15:33:26</publishTime>
+      <publishTime>01/17/2023 13:42:07</publishTime>
     </File>
     <File Include="BackendCore.Api.xml">
-      <publishTime>01/02/2023 13:19:26</publishTime>
+      <publishTime>01/17/2023 13:17:41</publishTime>
     </File>
     <File Include="BackendCore.Common.dll">
-      <publishTime>01/04/2023 15:33:11</publishTime>
+      <publishTime>01/17/2023 13:39:21</publishTime>
     </File>
     <File Include="BackendCore.Common.pdb">
-      <publishTime>01/04/2023 15:33:11</publishTime>
+      <publishTime>01/17/2023 13:39:20</publishTime>
     </File>
     <File Include="BackendCore.Data.dll">
-      <publishTime>01/04/2023 15:33:19</publishTime>
+      <publishTime>01/17/2023 13:39:33</publishTime>
     </File>
     <File Include="BackendCore.Data.pdb">
-      <publishTime>01/04/2023 15:33:19</publishTime>
+      <publishTime>01/17/2023 13:39:32</publishTime>
     </File>
     <File Include="BackendCore.Entities.dll">
-      <publishTime>01/04/2023 15:33:08</publishTime>
+      <publishTime>01/12/2023 15:18:19</publishTime>
     </File>
     <File Include="BackendCore.Entities.pdb">
-      <publishTime>01/04/2023 15:33:08</publishTime>
+      <publishTime>01/12/2023 15:18:19</publishTime>
     </File>
     <File Include="BackendCore.Integration.dll">
-      <publishTime>01/04/2023 15:33:21</publishTime>
+      <publishTime>01/17/2023 13:39:22</publishTime>
     </File>
     <File Include="BackendCore.Integration.pdb">
-      <publishTime>01/04/2023 15:33:21</publishTime>
+      <publishTime>01/17/2023 13:39:22</publishTime>
     </File>
     <File Include="BackendCore.Service.dll">
-      <publishTime>01/04/2023 15:33:23</publishTime>
+      <publishTime>01/17/2023 13:39:23</publishTime>
     </File>
     <File Include="BackendCore.Service.pdb">
-      <publishTime>01/04/2023 15:33:23</publishTime>
+      <publishTime>01/17/2023 13:39:23</publishTime>
     </File>
     <File Include="BouncyCastle.Crypto.dll">
       <publishTime>10/19/2021 13:53:34</publishTime>
